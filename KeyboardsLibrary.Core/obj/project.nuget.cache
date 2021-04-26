@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2fChw/3XGxGZEUub68rgGwNcKIqxIiHCHZ/RUjYFNjAFrU/z9ra5jdfoVjH3TyS46znOquQwOkBKNnUjETSZdg==",
+  "success": true,
+  "projectFilePath": "/Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardsLibrary.Core/KeyboardsLibrary.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/stevenyau/.nuget/packages/mongodb.bson/2.13.0-beta1/mongodb.bson.2.13.0-beta1.nupkg.sha512",
+    "/Users/stevenyau/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
