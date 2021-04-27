@@ -16,5 +16,21 @@ namespace KeyboardsLibrary.Core
         {
             return _keyboards.Find(keyboard => true).ToList();
         }
+
+        public EbayKeyboard AddKeyboard(EbayKeyboard kb)
+        {
+            _keyboards.InsertOne(kb);
+            return kb;
+        }
+
+        public EbayKeyboard getKeyboard(string id)
+        {
+            return _keyboards.Find(kb => kb.Id == id).First();
+        }
+
+        public EbayKeyboard getKeyboardEbayId(string id)
+        {
+            return _keyboards.Find(kb => kb.EbayId == id).First();
+        }
     }
 }
