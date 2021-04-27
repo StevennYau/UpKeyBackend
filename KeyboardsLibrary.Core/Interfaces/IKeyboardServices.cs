@@ -8,8 +8,15 @@ namespace KeyboardsLibrary.Core
         List<EbayKeyboard> GetKeyboardsEbay();
         EbayKeyboard AddKeyboard(EbayKeyboard kb);
 
-        EbayKeyboard getKeyboard(string id);
+        EbayKeyboard GetKeyboard(string id);
 
-        EbayKeyboard getKeyboardEbayId(string id);
+        EbayKeyboard GetKeyboardEbayId(string id);
+
+        void DeleteKeyboard(string id);
+        void DeleteKeyboardEbayId(string id);
+
+        EbayKeyboard UpdateKeyboard(EbayKeyboard kb);
+
+        List<EbayKeyboard> StoreAndUpdate(List<EbayKeyboard> KbList);
     }
 }
