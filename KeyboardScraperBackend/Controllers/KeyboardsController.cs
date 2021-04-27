@@ -66,7 +66,7 @@ namespace KeyboardScraperBackend.Controllers
             return Ok(_keyboardServices.UpdateKeyboard(kb));
         }*/
 
-        [HttpPut]
+        [HttpPut("~/storeScrapedData")]
         public IActionResult StoreAndUpdate(List<EbayKeyboard> KbList)
         {
             return Ok(_keyboardServices.StoreAndUpdate(KbList));
