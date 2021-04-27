@@ -103,7 +103,19 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.33, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0-preview.3.21201.4, )"
+            },
             "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.13.0-beta1, )"
+            },
+            "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.13.0-beta1, )"
             }

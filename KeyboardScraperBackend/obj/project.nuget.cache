@@ -1,17 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "YB4TmalWO+cTsu+OeJnO4n+ftuepFHxTE1at6WHT4irULSYsNGLcnZaRsWMU0YdwkeQn001IFlIayL0IhXjTdg==",
+  "dgSpecHash": "ggh9TVkvn7QzSZzYBqSg0ckO3dJByTKgBexoI/XsoY9QiC/6Z6aZ7R0a1M8F3Ojju2OIFKRTs92iD5vQMxrQSQ==",
   "success": true,
   "projectFilePath": "/Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardScraperBackend/KeyboardScraperBackend.csproj",
   "expectedPackageFiles": [
+    "/Users/stevenyau/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
+    "/Users/stevenyau/.nuget/packages/htmlagilitypack/1.11.33/htmlagilitypack.1.11.33.nupkg.sha512",
     "/Users/stevenyau/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/stevenyau/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0-preview.3.21201.4/microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/stevenyau/.nuget/packages/microsoft.extensions.options/6.0.0-preview.3.21201.4/microsoft.extensions.options.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/stevenyau/.nuget/packages/microsoft.extensions.primitives/6.0.0-preview.3.21201.4/microsoft.extensions.primitives.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/stevenyau/.nuget/packages/microsoft.netcore.platforms/2.1.2/microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "/Users/stevenyau/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/stevenyau/.nuget/packages/mongodb.bson/2.13.0-beta1/mongodb.bson.2.13.0-beta1.nupkg.sha512",
+    "/Users/stevenyau/.nuget/packages/mongodb.driver/2.13.0-beta1/mongodb.driver.2.13.0-beta1.nupkg.sha512",
+    "/Users/stevenyau/.nuget/packages/mongodb.driver.core/2.13.0-beta1/mongodb.driver.core.2.13.0-beta1.nupkg.sha512",
+    "/Users/stevenyau/.nuget/packages/mongodb.libmongocrypt/1.2.1/mongodb.libmongocrypt.1.2.1.nupkg.sha512",
+    "/Users/stevenyau/.nuget/packages/sharpcompress/0.23.0/sharpcompress.0.23.0.nupkg.sha512",
     "/Users/stevenyau/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/Users/stevenyau/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/Users/stevenyau/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
     "/Users/stevenyau/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
-    "/Users/stevenyau/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    "/Users/stevenyau/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/stevenyau/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0-preview.3.21201.4/system.runtime.compilerservices.unsafe.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "/Users/stevenyau/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512"
   ],
   "logs": []
 }

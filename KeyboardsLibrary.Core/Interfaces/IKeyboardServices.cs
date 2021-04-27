@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using KeyboardsLibrary.Core.Entity;
 
 namespace KeyboardsLibrary.Core
@@ -18,5 +19,7 @@ namespace KeyboardsLibrary.Core
         EbayKeyboard UpdateKeyboard(EbayKeyboard kb);
 
         List<EbayKeyboard> StoreAndUpdate(List<EbayKeyboard> KbList);
+
+        Task<List<EbayKeyboard>> GetScrapedData();
     }
 }

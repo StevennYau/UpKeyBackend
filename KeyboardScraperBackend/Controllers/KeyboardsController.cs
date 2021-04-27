@@ -20,7 +20,7 @@ namespace KeyboardScraperBackend.Controllers
             _keyboardServices = keyboardServices;
         }
 
-        [HttpGet]
+        [HttpGet("~/getAllKeyboards")]
         public IActionResult GetKeyboardsEbay()
         {
             return Ok(_keyboardServices.GetKeyboardsEbay());
@@ -70,6 +70,12 @@ namespace KeyboardScraperBackend.Controllers
         public IActionResult StoreAndUpdate(List<EbayKeyboard> KbList)
         {
             return Ok(_keyboardServices.StoreAndUpdate(KbList));
+        }
+
+        [HttpGet("~/getScrapedData")]
+        public IActionResult GetScrapedData()
+        {
+            return Ok(_keyboardServices.GetScrapedData().Result);
         }
 
     }
