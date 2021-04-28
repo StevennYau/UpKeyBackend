@@ -10,3 +10,15 @@
 /Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardsLibrary.Core/obj/Debug/net5.0/KeyboardsLibrary.Core.dll
 /Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardsLibrary.Core/obj/Debug/net5.0/ref/KeyboardsLibrary.Core.dll
 /Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardsLibrary.Core/obj/Debug/net5.0/KeyboardsLibrary.Core.pdb
+/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/bin/Debug/net5.0/KeyboardsLibrary.Core.deps.json
+/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/bin/Debug/net5.0/KeyboardsLibrary.Core.dll
+/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/bin/Debug/net5.0/ref/KeyboardsLibrary.Core.dll
+/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/bin/Debug/net5.0/KeyboardsLibrary.Core.pdb
+/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/obj/Debug/net5.0/KeyboardsLibrary.Core.csprojAssemblyReference.cache
+/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/obj/Debug/net5.0/KeyboardsLibrary.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/obj/Debug/net5.0/KeyboardsLibrary.Core.AssemblyInfoInputs.cache
+/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/obj/Debug/net5.0/KeyboardsLibrary.Core.AssemblyInfo.cs
+/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/obj/Debug/net5.0/KeyboardsLibrary.Core.csproj.CoreCompileInputs.cache
+/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/obj/Debug/net5.0/KeyboardsLibrary.Core.dll
+/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/obj/Debug/net5.0/ref/KeyboardsLibrary.Core.dll
+/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/obj/Debug/net5.0/KeyboardsLibrary.Core.pdb

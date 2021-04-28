@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardScraperBackend", "K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardsLibrary.Core", "KeyboardsLibrary.Core\KeyboardsLibrary.Core.csproj", "{FCB9C16D-4AA2-4DA4-8CD7-6FFFC0E11439}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersLibrary.Core", "UsersLibrary.Core\UsersLibrary.Core.csproj", "{D70BD304-8935-4389-A3FF-EB19A89788A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{FCB9C16D-4AA2-4DA4-8CD7-6FFFC0E11439}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCB9C16D-4AA2-4DA4-8CD7-6FFFC0E11439}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCB9C16D-4AA2-4DA4-8CD7-6FFFC0E11439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70BD304-8935-4389-A3FF-EB19A89788A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70BD304-8935-4389-A3FF-EB19A89788A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70BD304-8935-4389-A3FF-EB19A89788A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70BD304-8935-4389-A3FF-EB19A89788A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

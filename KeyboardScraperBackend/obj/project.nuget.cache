@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ggh9TVkvn7QzSZzYBqSg0ckO3dJByTKgBexoI/XsoY9QiC/6Z6aZ7R0a1M8F3Ojju2OIFKRTs92iD5vQMxrQSQ==",
+  "dgSpecHash": "LcD85BCf/YhuYLpZUNfkTWvEXAanOGphsugdTks5uQhv2Nnrc3ObUnJp1eCcYHHmQqzn76EzIZdgIRhqUQicKg==",
   "success": true,
-  "projectFilePath": "/Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardScraperBackend/KeyboardScraperBackend.csproj",
+  "projectFilePath": "/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardScraperBackend/KeyboardScraperBackend.csproj",
   "expectedPackageFiles": [
     "/Users/stevenyau/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
     "/Users/stevenyau/.nuget/packages/htmlagilitypack/1.11.33/htmlagilitypack.1.11.33.nupkg.sha512",

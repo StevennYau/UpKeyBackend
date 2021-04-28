@@ -804,11 +804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardScraperBackend/KeyboardScraperBackend.csproj",
+      "projectUniqueName": "/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardScraperBackend/KeyboardScraperBackend.csproj",
       "projectName": "KeyboardScraperBackend",
-      "projectPath": "/Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardScraperBackend/KeyboardScraperBackend.csproj",
+      "projectPath": "/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardScraperBackend/KeyboardScraperBackend.csproj",
       "packagesPath": "/Users/stevenyau/.nuget/packages/",
-      "outputPath": "/Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardScraperBackend/obj/",
+      "outputPath": "/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardScraperBackend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/stevenyau/.nuget/NuGet/NuGet.Config"
@@ -823,8 +823,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardsLibrary.Core/KeyboardsLibrary.Core.csproj": {
-              "projectPath": "/Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardsLibrary.Core/KeyboardsLibrary.Core.csproj"
+            "/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/KeyboardsLibrary.Core.csproj": {
+              "projectPath": "/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/KeyboardsLibrary.Core.csproj"
             }
           }
         }

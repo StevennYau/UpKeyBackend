@@ -604,11 +604,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardsLibrary.Core/KeyboardsLibrary.Core.csproj",
+      "projectUniqueName": "/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/KeyboardsLibrary.Core.csproj",
       "projectName": "KeyboardsLibrary.Core",
-      "projectPath": "/Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardsLibrary.Core/KeyboardsLibrary.Core.csproj",
+      "projectPath": "/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/KeyboardsLibrary.Core.csproj",
       "packagesPath": "/Users/stevenyau/.nuget/packages/",
-      "outputPath": "/Users/stevenyau/Desktop/workspace/KeyboardScraperBackend/KeyboardsLibrary.Core/obj/",
+      "outputPath": "/Users/stevenyau/Desktop/workspace/UpKeyBackend/KeyboardsLibrary.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/stevenyau/.nuget/NuGet/NuGet.Config"

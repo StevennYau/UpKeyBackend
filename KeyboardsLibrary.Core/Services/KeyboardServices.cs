@@ -165,12 +165,12 @@ namespace KeyboardsLibrary.Core
                 Console.WriteLine(
                     ProductListItem.Descendants("li")
                             .Where(node => node.GetAttributeValue("class", "")
-                                .Equals("lvformat")).FirstOrDefault().InnerText.Trim('\r', '\n', '\t').TrimEnd()
+                                .Equals("lvformat")).FirstOrDefault().InnerText.Trim('\r', '\n', '\t').TrimEnd().Replace("\t", "")
                 );
 
                 var standing = ProductListItem.Descendants("li")
                     .Where(node => node.GetAttributeValue("class", "")
-                        .Equals("lvformat")).FirstOrDefault().InnerText.Trim('\r', '\n', '\t').TrimEnd();
+                        .Equals("lvformat")).FirstOrDefault().InnerText.Trim('\r', '\n', '\t').Replace("\t", "").Replace("\n", " ");
                 NewKb.Standing = standing;
                 
                 // image
@@ -187,9 +187,7 @@ namespace KeyboardsLibrary.Core
                 
                 Console.WriteLine();
             }
-            
-            Console.WriteLine(NewList);
-            
+
             return NewList;
         }
 
