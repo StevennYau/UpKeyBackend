@@ -7,6 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using HtmlAgilityPack;
 using KeyboardsLibrary.Core.Entity;
+using Microsoft.VisualBasic;
 using MongoDB.Driver;
 
 namespace KeyboardsLibrary.Core
@@ -44,9 +45,10 @@ namespace KeyboardsLibrary.Core
             _keyboards.DeleteOne(kb => kb.Id == id);
         }
 
-        public void DeleteKeyboardEbayId(string id)
+        public void DeleteKeyboards()
         {
-            _keyboards.DeleteOne(kb => kb.EbayId == id);
+            _keyboards.DeleteMany(u => true);
+
         }
 
         public EbayKeyboard UpdateKeyboard(EbayKeyboard kb)

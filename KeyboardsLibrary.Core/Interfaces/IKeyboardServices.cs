@@ -14,7 +14,7 @@ namespace KeyboardsLibrary.Core
         EbayKeyboard GetKeyboardEbayId(string id);
 
         void DeleteKeyboard(string id);
-        void DeleteKeyboardEbayId(string id);
+        void DeleteKeyboards();
 
         EbayKeyboard UpdateKeyboard(EbayKeyboard kb);
 

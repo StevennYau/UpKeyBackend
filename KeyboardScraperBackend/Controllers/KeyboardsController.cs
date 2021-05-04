@@ -53,10 +53,10 @@ namespace KeyboardScraperBackend.Controllers
             return NoContent();
         }*/
         
-        [HttpDelete("{EbayId}")]
-        public IActionResult DeleteKeyboardEbayId(string EbayId)
+        [HttpDelete]
+        public IActionResult DeleteKeyboardEbayId()
         {
-            _keyboardServices.DeleteKeyboardEbayId(EbayId);
+            _keyboardServices.DeleteKeyboards();
             return NoContent();
         }
 
