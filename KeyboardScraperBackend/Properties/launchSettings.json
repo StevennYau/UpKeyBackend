@@ -15,8 +15,8 @@
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "DATABASE_NAME": "KeyboardsDb",
-        "KEYBOARD_COLLECTION_NAME": "Keyboards"
+        "DATABASE_NAME": "UsersDb",
+        "KEYBOARD_COLLECTION_NAME": "KeyboardDB"
       }
     },
     "KeyboardScraperBackend": {
@@ -27,8 +27,8 @@
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "DATABASE_NAME": "KeyboardsDb",
-        "KEYBOARD_COLLECTION_NAME": "Keyboards"
+        "DATABASE_NAME": "UsersDb",
+        "KEYBOARD_COLLECTION_NAME": "KeyboardDB"
       }
     }
   }
